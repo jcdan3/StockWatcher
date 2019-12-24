@@ -1,0 +1,14 @@
+{
+   "settings" : [
+      {
+         "Simulation" : 1 ,
+         "RefreshTimeMin": 10,
+         "Stocks": ["TSLA"],
+         "SendingEmailAdress": "webstx@mail.com",
+         "SendingEmailPassword": "StoneLove",
+         "ReceivingEmailAdress": ["jcdan960@gmail.com"]
+      }
+   ]
+}
+
+
