@@ -3,7 +3,12 @@
       {
          "Simulation" : 1 ,
          "RefreshTimeMin": 10,
-         "Stocks": ["TSLA"],
+         "Stocks": 
+         {
+            "TSLA" : 300,
+            "AMZN" :1700
+         }
+            ,
          "SendingEmailAdress": "webstx@mail.com",
          "SendingEmailPassword": "StoneLove",
          "ReceivingEmailAdress": ["jcdan960@gmail.com"]
